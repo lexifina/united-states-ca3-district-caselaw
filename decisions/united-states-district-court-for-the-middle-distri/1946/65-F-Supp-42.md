@@ -2,7 +2,7 @@
 court: "United States District Court for the Middle District of Pennsylvania"
 docket: "11400"
 decided: "1946-03-15"
-citations: ["65 F. Supp. 42", "65 F. Supp. 46"]
+citations: ["65 F. Supp. 42"]
 reporter: "f-supp"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["UNITED STATES v. JOHNSON et al."]
 source_url: "https://static.case.law/f-supp/65/cases/0042-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 625535
-cites_cases: ["12 L.R.A.,N.S., 1053", "123 F.2d 271", "142 F.2d 503", "151 F.2d 170", "154 F. 577", "18 U.S.C.A. § 582", "18 U.S.C.A. § 88", "311 U.S. 205", "39 F.Supp. 885", "65 F.Supp. 42", "65 F.Supp. 46"]
+cites_cases: ["142 F.2d 503", "151 F.2d 170", "18 U.S.C.A. § 582", "18 U.S.C.A. § 88", "311 U.S. 205", "65 F.Supp. 46"]
 ---
 
 # United States v. Johnson
