@@ -1,0 +1,28 @@
+---
+court: "United States District Court for the Eastern District of Pennsylvania"
+docket: "19394"
+decided: "1940-07-30"
+citations: ["35 F. Supp. 15"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re GRIM."]
+source_url: "https://static.case.law/f-supp/35/cases/0015-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4185309
+cites_cases: ["11 U.S.C.A. § 203", "179 F. 210", "218 U.S. 671", "31 S.Ct. 221", "54 L.Ed. 204"]
+---
+
+# In re Grim
+
+## Majority (BARD, District Judge.)
+
+BARD, District Judge.
+This case arises on a petition for review of the order of tile Referee disallowing petitioner’s claim for a real estate brokerage commission.
+It appears that on July 25, 1936 Harry B. Grim filed a petition under Section 75 of the Bankruptcy Act, 11 U.S.C.A. § 203, and included in his assets was a farm partly in Weisenberg Township, Lehigh County, and partly in Maxatawny Township, Berks County, Pennsylvania. On January 27, 1937 he was adjudicated a bankrupt under Section 75, sub. s. The Referee fixed $350 a year as rental to be paid by the bankrupt and no default in payment has occurred.
+On September 11, 1939 the bankrupt and his wife petitioned the Court for approval of a contract to sell the Weisenberg farm for $4,000, the Farmers Bank and Trust Company, of Kutztown, Pennsylvania, and Laura E. Lutz, lien creditors, joining in the petition. On that date Judge Kalodner issued an Order allowing the sale to be made. The farm was acquired through inheritance by the bankrupt and no accurate description was available. However, a survey directed by the Referee revealed .that the acreage was 78 acres 110 perches rather than 105 acres 124 perches as originally contemplated by the parties. Consequently, after some negotiation, the bankrupt and his wife, the purchaser, and the lien creditors filed a stipulation, which was approved by the Referee, agreeing that the price be reduced to $3,750. After the delivery of the deed and the receipt of the purchase money, the petitioner, Henry W. Moatz, a real estate broker, filed a claim for a commission of five per cent of the purchase price, amounting to $187.50. To this claim the Farmers Bank and Trust Company filed its objections. As previously indicated, the objections were sustained by the Referee and the claim was disallowed.
+It is to be observed that the petition for approval of the contract of sale made no mention of any real estate brokerage commissions to be paid from the proceeds, although the Order of Sale contained the general direction that "The purchase money * * * be applied to the reasonable and necessary costs and expenses of making sale, administration expenses, and to the claim of the priority creditor and creditors, as their interests may appear.”
+At the hearing before the Referee, petitioner testified that he was employed by the bankrupt to find a purchaser for an agreed commission of five per cent and that, after negotiating with several prospective buyers, he secured one B. F. Brady who ultimately purchased the farm. He declared: “I was practically the cause of the sale coming through after the fixing of acreage and everything and reduced price.” (N. T. 5) He admitted, however, that he never consulted the Farmers Bank and Trust Company or its attorney prior to the consummation of the sale. Further, there is no evidence that Laura E. Lutz, the other lien creditor, knew of petitioner’s alleged part in the transaction. It would appear that the lien creditors consented to the sale without notice of the existence of any claim on the proceeds on account of brokerage commissions.
+In light of the foregoing circumstances, I have reached the conclusion that the order of the Referee ought not to be disturbed. The lien creditors were entitled to notice, before their assent to the sale was obtained, of the employment of a real estate broker and his claim for a commission from the proceeds. Gold v. South Side Trust Co., 3 Cir., 1910, 179 F. 210, 213, certiorari denied, 1910, 218 U.S. 671, 31 S.Ct. 221, 54 L.Ed. 204. This was a relevant circumstance which might have affected their approval of the sale. Moreover, the petition for the Order of Sale ought to have apprised the Court specifically of the claim for brokerage commission. It is to be noted that General Order 45, 11 U.S.C.A. following section 53, provides : “No auctioneer * * * shall be employed by a receiver, trustee or debtor in possession except upon an order of the court expressly fixing the amount of the compensation or the rate or measure thereof. * * *” Although the foregoing relates to public sales, no reason appears why private real estate brokers should constitute a more favored class. The policy of law underlying General Order 45 would seem equally applicable to the circumstances existing in the present case.
+Petitioner argues, further, that Judge Kalodner’s Order decreeing that “reasonable and necessary costs and expenses of making sale” be paid out of the proceeds is conclusive on his right to recover. The Referee was of the opinion that, in light of the circumstances noted above, these words should not be construed as a direction to pay brokerage commissions and, with this interpretation, I am in complete agreement. A contrary conclusion would set a dangerous precedent in enabling brokers to charge the proceeds of a sale with claims for services rendered without notice to the Court or the lien creditors. It is clear that such a result cannot be sanctioned by this Court. Gold v. South Side Trust Co., supra.
+Accordingly, the order of the Referee hereby is confirmed.
