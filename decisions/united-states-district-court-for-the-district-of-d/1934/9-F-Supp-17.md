@@ -1,0 +1,29 @@
+---
+court: "United States District Court for the District of Delaware"
+decided: "1934-11-17"
+citations: ["9 F. Supp. 17"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re CENTRAL PUBLIC UTILITY CORPORATION."]
+source_url: "https://static.case.law/f-supp/9/cases/0017-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4142236
+---
+
+# In re Central Public Utility Corp.
+
+## Majority (MELDS, District Judge.)
+
+MELDS, District Judge.
+In a proceeding under section 77B of the Bankruptcy Act (11 USCA § 207) three creditors of the debtor filed a petition praying that they may be “permitted to submit one or more plans and suggestions for reorganization.”
+The debtor moves to dismiss the petition upon three grounds: (1) Absence of necessary jurisdictional averments; (2) failure of attorney signing names of petitioners to annex his power of attorney; (3) insufficient verification. Only the first ground need be considered.
+Section 77B, par. (a), 11 USCA § 207 (a), prescribes: “Three' or more creditors * * * may * * * file • • • a petition stating that such corporation is insolvent or unable to meet its debts as they mature and, if a prior proceeding in bankruptcy or equity receivership is not pending, that it has committed an act of bankruptcy within four months. * * * ”
+A necessary jurisdictional averment prescribed by the statute is that the debtor has committed an act of bankruptcy within four months, unless a prior proceeding in bankruptcy or equity receivership is pending and is averred as pending. There is no averment that such proceeding is pending. It follows that the petition is fatally defective in failing to aver that the debtor has committed an act of bankruptcy within four months.
+Counsel for petitioners claim that the necessary jurisdictional averments prescribed by the statute are covered by paragraph 12 of the petition.
+“12. * * * That the principal assets of said debtor corporation consist of the stock of certain public utility companies, principally among which is the Central Public Service Corporation which was adjudicated a bankrupt on the eighth day of March 1933 in the United States District Court at Baltimore, Maryland and thereupon I. W. Inglehart was appointed trustee in •bankruptcy which proceeding and receivership is still pending. Said receiver now-having all of the said assets of the said Central Public Service Corporation and is operating same under the direction of the said Court. That a considerable portion of other subsidiary corporations owned or controlled by the said debtor corporation consisted of the Central Gas and Electric Company, for which a receiver was appointed in the United States District Court in Maryland on the twenty-seventh day of January 1933. That a further considerable portion of the assets of the said debtor corporation consisted-of the common stock of the Portland Electric Power Company which was owned or controlled by the said debtor corporation. That Franklin T. Griffith was appointed temporary receiver of the said Portland Electric Power Company in the United States District Court of Oregon on the fifth day of March 1934. That additional assets totaling several million dollars, so owned or controlled by the said debtor corporation consists of the Mobile Gas Company which was placed in receivership at Mobile, Alabama on the second day of June 1933. That additional assets consist of the stock of the Seattle Gas Company which is unable to meet its indebtedness and is in default on a considerable portion of its outstanding obligations. That various other of the corporations comprising the majority of the assets of said debtor corporation are insolvent or unable to meet their maturing indebtedness. That said debtor corporation has committed divers and other acts of bankruptcy bringing said debtor corporation within the purview of the Amendatory Bankruptcy Act.”
+Section 77B, par. (i), of the act (11 USCA § 207 (i) provides:
+“(i) If a receiver or trustee of all or any part of the property of a corporation has been appointed by a Federal, State, or Territorial court, whether before or after this amendatory Act takes effect [June 7, 1934 at 12 o'clock noon] a petition or answer may be filed under this section at any time thereafter by the corporation, or its creditors as provided in subdivision (a) of this section. » * * a
+Paragraph (i) is applicable only where a receiver or trustee of property of the debtor has been appointed. It does not apply where a receiver or trustee has been appointed for the property of a corporation in which the debtor holds stock. Under this paragraph the bankruptcy or receivership of a subsidiary corporation does not subject the parent corporation to the provisions of section 77B. It expressly provides that a petition or answer may be filed “as provided in subdivision (a).” Where paragraph (i) applies, the petition' must contain the jurisdictional averments required by paragraph (a). Moreover, paragraph (a) of the act provides for subsidiaries joining in a proceeding under section 77B where the parent corporation has filed a petition or answer. This paragraph recognizes the separate character of parent and subsidiary corporations and authorizes the subsidiary to join in a proceeding where the parent is a party.
+The averments of a prior pending proceeding against a subsidiary or subsidiaries of the debtor, whether in bankruptcy or equity receivership, is not the averment of a prior proceeding in bankruptcy or equity of the property of the debtor provided in the statute. Such averments do not relieve the petitioners from averring that the debtor “has committed an act of bankruptcy within four months.”
+The motion to dismiss must be granted.
