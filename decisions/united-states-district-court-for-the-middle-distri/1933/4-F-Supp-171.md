@@ -1,0 +1,29 @@
+---
+court: "United States District Court for the Middle District of Pennsylvania"
+docket: "3052, 3053"
+decided: "1933-07-28"
+citations: ["4 F. Supp. 171"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["UNITED STATES v. MUNLEVITCH (or MATLEVITCH) et al. SAME v. WRIGHT et al."]
+source_url: "https://static.case.law/f-supp/4/cases/0171-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4126910
+cites_cases: ["1 F. Supp. 895", "59 F.(2d) 1027"]
+---
+
+# United States v. Munlevitch
+
+## Majority (JOHNSON, District Judge.)
+
+JOHNSON, District Judge.
+' In the above cases the facts are the same and were argued together. They will be disposed of in one opinion.
+The defendants, John Munlevitch and Jack Wright, were arrested on January 15, 1931, for a violation of the National Prohibition Act (27 USCA) and after a hearing before a United States commissioner were held for court. Each defendant entered into a recognizance with Michael Gower as surety for appearance before the District Court of the United States for the Middle District of Pennsylvania on the first day of March term, 1931. The recognizance in the case of Jack Wright contained the following condition: “The condition of this recognizance is such, that if the said Jack Wright, principal shall personally appear before the District Court of the United States in and for the Middle District of Pa., on the first day of the March term, 1931, to be begun and held at the City of Scranton, Pa., at 2 o’clock P. M., on the 9th day of March, A. D. 19*31, and from day to day and from time to time thereafter, until finally discharged therefrom, then and there to answer the charge that * * * and then and there -abide the judgment of said court and not depart without leave thereof, then this recognizance to be void, otherwise to remain in full force and virtue.”
+The recognizance in the Munlevitch ease contains the same condition.
+Indictments were obtained against the defendants Jack Wright and John Munlevitch in February, 1931. For some reason these eases were not called for trial during the March term, 1931. The United States attorney contends that they were continued for several terms because of the inability of counsel for the defendants to be present. At the January term, 1932, the United States attorney called the eases for trial, and upon failure to answer to their names, the surety was called upon to produce them. There being no appearance of either the surety or the defendants, the court entered an order forfeiting their recognizance on January 22, 1932. A praecipe for scire facias sur forfeited recognizance was filed against the defendants and the surety filed affidavits of defense. The United States attorney then took a rule for judgment against the defendants for want of sufficient affidavits of defense.
+The affidavits of defense aver that the defendants in the criminal eases together with their surety appeared in court on the 1st day of the March term, 1931, and remained in attendance during that term, but that the government proceeded to try other cases and did not try their cases. The affidavits of defense further aver that the defendants together with their surety appeared at the June term, 1931, and remained in court during the entire term without having their eases called for trial.
+The surety contends that he has complied with the terms of the obligation of the bond and is not liable for any«penalty or judgment thereon. If this contention is correct and the evidence should substantiate the averments) a remission of the forfeiture of the recognizance would follow. Any right to a remission of forfeiture in whole or in part must depend upon the provisions of 18 USCA § 601: “Remission of penalty of recognizance. When any recognizance in a criminal cause, taken for, or in, or returnable to, any court of the United States, is forfeited by a breach' of the condition thereof, such court may, in its discretion, remit the whole or a part of the penalty, whenever it appears to the court that there has been no willful default of the party, and that a trial can, notwithstanding, be had in'the cause, and that publie justice does not otherwise require the same penalty to be enforced.”
+In the case of the United States of America v. Rutherford et al., 59 F.(2d) 1027, this court held that under this statute two conditions must affirmatively appear to give this court jurisdiction to remit forfeitures: First, that there has been no willful forfeiture by the party; and, secondly, that a trial can, notwithstanding, be had in the cause. From the pleadings it app fears that the defendants in the criminal proceedings have not been apprehended and the trial cannot be had. The second condition required by the statute has not been met and this court, therefore, cannot remit the forfeiture.
+Counsel for the surety contends, however, that the surety has performed the conditions of the recognizance by producing the defendants at the March term, 1931, because the bonds were conditioned for the appearance of the defendants at the March term, 1931, only. As was said by Bourquin, District Judge, in construing the conditions of a similar form of bond in the case of the United States v. Payne et al. (D. C.) 1 F. Supp. 895, this position is untenable. A reading of the bonds in the present ease shows that they were conditioned for the appearance of the defendants before the court at its next term beginning the 9th day of March, 1931, and from day to day apd from time to time thereafter until finally discharged. Any practice in the state courts of Pennsylvania cannot change the plain language of the bonds in question and the act of Congress.
+And now, July 28, 1933, the rules for judgment for want of a sufficient affidavit of defense are hereby made absolute.
