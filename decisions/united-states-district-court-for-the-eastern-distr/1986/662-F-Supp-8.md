@@ -1,0 +1,39 @@
+---
+court: "United States District Court for the Eastern District of Pennsylvania"
+docket: "Civ. A. No. 85-5545"
+decided: "1986-06-10"
+citations: ["662 F. Supp. 8"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sarah M. ABSHIRE v. Otis R. BOWEN, Secretary of Health and Human Services."]
+source_url: "https://static.case.law/f-supp/662/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 7396317
+cites_cases: ["642 F.2d 700"]
+---
+
+# Abshire v. Bowen
+
+## Majority (LOUIS H. POLLAK, District Judge.)
+
+MEMORANDUM and ORDER
+LOUIS H. POLLAK, District Judge.
+Plaintiff seeks review of the decision of the Secretary of Health and Human Services denying her application for disability benefits. She has moved for summary judgment, arguing that the decision of the Administrative Law Judge (AU) was not supported by substantial evidence. In response, the Secretary has moved that the case be remanded for reconsideration under the new mental impairment regulations promulgated pursuant to section 5(a) of the Social Security Disability Benefits Reform Act, Pub. L. No. 98-460 (1984).
+Plaintiff was born June 10, 1929, and began working at the Burpee Seed Company in 1969 as an “order filler.” Tr. 87. Although plaintiff did not describe this job in detail at the hearing before the AU, plaintiff described the job in her vocational report as follows: “Had or[d]er from customer — walk through aisle — picked bags of seed off shelf — put in tray — put order sheet in tray — give to a girl to check.” Tr. 88. The AU noted that this job required standing as well as lifting over twenty pounds. Tr. 20. In 1973, she began working as a machine operator for Burpee, a job that involved constant standing as well as lifting ten to twenty pounds. The area in which the machine was located was cold and poorly ventilated, and was filled with dust and other particles. Plaintiff stopped working at Burpee in January, 1984.
+Plaintiff was hospitalized in July 1982, and treated for chest pain, vomiting, diarrhea, and breathing difficulties. She was hospitalized again in January, 1984, and diagnosed as having chronic obstructive pulmonary disease and acute purulent bronchitis. Tr. 18. Plaintiff was treated by Dr. Richard Brantz, who prepared two reports and wrote one letter about plaintiff’s condition. According to his most recent evaluation, contained in his letter of November 1, 1984, he diagnosed plaintiff as suffering from hypertension, transient ischemic attacks, chronic obstructive pulmonary disease, diverticulosis, anxiety, and old myocardiae infarction. Tr. 199. He stated that plaintiffs
+activity level is greatly limited and her chest pain are [sic] more psychological than cardiac. Some of her weakness and shortness of breath may be related to her previous cardiac medications which are in the process of being discontinued. After discontinuation hopefully her activity level can be improved.
+Id.
+Plaintiff was also examined at the request of the Social Security Administration by Dr. William T. Heine. Dr. Heine concluded that her chest pains were “atypical,” that there was no evidence of coronary heart disease, that her shortness of breath was not related to pulmonary dysfunction, and that her aches and pains might be due to fibrositis, but not to arthritis. Tr. 185-86.
+The ALJ concluded that plaintiff “has severe lung disease,” tr. 21, but that she was physically able to perform her past work as an order filler. His explanation for this finding is as follows:
+The next issue to be resolved is whether the claimant can perform her past relevant work. The record indicates that the claimant’s pulmonary impairment is minimally severe. If the claimant takes medication she should be able to work as long as she avoids doing more than, medium work and avoids exposure to heavy pollution. The claimant’s limitations do not preclude her from performing her past relevant work as an order filler. The undersigned notes that her past work involved dealing with bags of hot pepper. However, the pepper was in sealed plastic bags and resulted in no exposure.
+Id.
+The first issue to be resolved is whether plaintiff is correct in asserting that the AU’s conclusion is not based upon substantial evidence. Substantial evidence is “such relevant evidence as a reasoning mind might accept as adequate to support a conclusion.” Cotter v. Harris, 642 F.2d 700, 704 (3d Cir.1981). Plaintiff argues that the ALJ’s explanation is too brief to allow one to determine whether his decision is supported by substantial evidence. Plaintiff notes that Dr. Brantz, plaintiff’s treating physician, stated that plaintiff experienced angina during periods of exertion or stress, tr. at 160, and shortness of breath during periods of exertion, tr. at 199. Plaintiff also notes that the ALJ did not refer to the findings of Dr. Marjorie Stanek that plaintiff experienced “rare premature atrial contractions post exercise.” Tr. 173. Finally, plaintiff argues that the ALJ’s conclusion that “if the claimant takes medication she should be able to work as long as she avoids doing more than medium work and avoids exposure to heavy pollution” is nowhere supported by any of the physicians’ reports.
+The ALJ’s analysis of the record is inadequate to allow me to determine whether his decision is supported by substantial evidence. As the passage quoted above reveals, in explaining his decision the AU did not identify which of the various reports he found persuasive and which he did not, but referred simply to “the record.” He also did not show where the record supported certain crucial inferences, such as that in resuming her job as an order filler, plaintiff would not be exposed to the same pollution she encountered as a machine operator. It is therefore not possible to determine whether there is substantial evidence to support the AU’s decision.
+Some evidence appears to contradict part of the AU’s reasoning, though not necessarily his ultimate conclusion. The AU stated that plaintiff should be able to do medium work if she “takes medication.” Plaintiff argues that there- is no basis in the record for such a conclusion. This is partly true: there appears to be no statement that by taking certain medication, plaintiffs activity level will improve. However, plaintiffs treating physician, Dr. Brantz, did state that “some of her weakness and shortness of breath may be related to previous cardiac medications which are in the process of being discontinued,” and that her activity level might increase once she was no longer taking that medication. Thus while the AU’s reasoning for his conclusion that plaintiff could function at a higher level of activity is not supported in the record, it may be that other reasons for the same conclusion would find support in the record. Since the plaintiff has not established that the AU’s conclusion was erroneous, the proper course to take at this point is to remand the matter to the Secretary for reconsideration.
+The Secretary has also moved that he be allowed to consider, on remand, the question of whether plaintiff is entitled to disability benefits under the new mental impairment regulations. In light of the evaluation of plaintiffs treating physician, who states that plaintiffs chest pain may be “more psychological than cardiac,” such consideration is warranted. Accordingly, on remand, the AU is also to evaluate plaintiffs application for disability benefits in light of the mental impairment regulations. An appropriate order is attached.
+ORDER
+For the reasons stated in the accompanying Memorandum, it is hereby ORDERED that:
+(1) plaintiffs motion for summary judgment is DENIED;
+(2) defendant’s motion to remand is GRANTED; and
+(3) this matter is hereby REMANDED for reconsideration by the Secretary in a manner consistent with the attached Memorandum.
