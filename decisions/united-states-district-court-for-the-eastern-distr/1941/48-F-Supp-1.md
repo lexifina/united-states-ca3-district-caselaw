@@ -1,0 +1,33 @@
+---
+court: "United States District Court for the Eastern District of Pennsylvania"
+docket: "20218"
+decided: "1941-01-27"
+citations: ["48 F. Supp. 1"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["COHEN v. GLOBE INDEMNITY CO."]
+source_url: "https://static.case.law/f-supp/48/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4201294
+cites_cases: ["106 F.2d 687", "37 F.Supp. 208"]
+---
+
+# Cohen v. Globe Indemnity Co.
+
+## Majority (KIRKPATRICK, District Judge.)
+
+KIRKPATRICK, District Judge.
+The issue now before the court is the reformation of the contract of insurance. See opinion filed December 20, 1940. D.C., 37 F.Supp. 208.
+It is adjudged and ordered that the contract be reformed in accordance with the prayer of the plaintiff’s petition.
+The defendant contends that certain statements in the course of the opinion of the Circuit Court of Appeals preclude reformation. It will be noted that it does not contend that the decision of that court, as distinguished from what was said in the opinion, has that effect. Nor could it so contend, because the decision of the Circuit Court of Appeals was rendered upon a contract which is different at a vital point from the one which the plaintiff says was the real contract. The Circuit Court of Appeals went no further than to rule that by the express terms of the contract or policy, as it was presented to the court, knowledge of the assistant claims manager, Mr. Atkinson, of the insured’s mistaken belief that his system of keeping books and records was a substantial compliance with the policy did not estop the company to set up the defense that the plaintiff had failed to comply with its terms. This was not on the ground that under the general rules of the law the knowledge acquired by the assistant claims manager of the company, while acting in the scope of his authority, was not the knowledge of the company, but on the ground that the parties had expressly agreed (contrary to the general rule of law) that such knowledge, whether attributable to the company or not, would not, as between the parties, form the basis of a waiver, estoppel, or alteration of the contract.
+The sentence of the opinion emphasized by the defendant to the effect that the policies in suit “created anew the duty upon the appellee to maintain his records in accordance with the clauses of warranty, and the fact that the appellee’s performance of that warranty in the past was deemed sufficient by a representative of the company and the company paid the claim, is insufficient to relieve the appellee of performance in accordance with the terms of the warranty under the new contracts of insurance,” was, of course, directed solely to the issues of estoppel and waiver, with which the Circuit Court of Appeals was dealing. Globe Indemnity Co. v. Cohen, 3 Cir., 106 F.2d 687, 692. There was no issue of reformation before that court, and the defendant’s argument depends upon a supposition that the Circuit Court of Appeals intended to express its views on issues not before it — which I am quite certain it did not intend to do.
+The other of the defendant’s principal contentions has to do with the scope of authority of the assistant claims manager; but it has always been held that, apart from limiting clauses in the policies constituting special agreements between the parties, the knowledge of an agent of an insurance company acquired within the scope of his authority is the knowledge of the company. The mutual mistake which is the basis of the reformation arose before the policy in suit was issued, and as a result of that mistake the insured accepted the policy. The defendant argues that the cases cited on which reformation was granted as a result of a mutual mistake, depended upon the conduct or knowledge of the agent of an insurance company who actually issued the policy. But it is the company who makes the contract, not the agent. There is no attempt' in this case to impose liability upon the company because of acts or conduct of an assistant claims manager, but rather because of its own act and conduct in issuing a policy with knowledge acquired by it from that claims manager who in turn obtained it while acting in the scope of his authority, the subject matter being one peculiarly committed to him.
+Findings and Conclusions.
+The facts so far as relevant to the issue now before the court — reformation of the contract — are found specially to be as stated in the plaintiff’s requests with the exception of the 4th, which has to do with the main issue in the suit (to be tried before a jury), and the 6th and 7th, which are matters of record and not properly subject of fact findings. The court adopts the conclusions of law in the plaintiff’s requests as its conclusions.
+The defendant has presented numerous requests for findings. Rule 52, Federal Rules of Civil Procedure, 28 U.S.C.A. following section 723c, provides, “Requests for findings are not necessary for purposes of review,” and it follows from this that they need not be specifically answered so long as the court complies with the rule and finds the facts specially and states separately its conclusions of law thereon. Most of the defendant’s requests for conclusions of law are more in the nature of arguments than requests. The following requests which appear to raise specific issues are answered as follows:
+14. It is correct to say that the assistant claims manager did not have authority to waive or eliminate policy provisions or add provisions as to future losses. This petition for reformation is not based upon any waiver of a term of the policy, arising from conduct or statements. The reformation depends upon the issuance of the policy by the company with knowledge of the insured’s misunderstanding, which knowledge, having been acquired by the assistant claims manager in the scope of his authority, is attributable to the company.
+20. There is undoubtedly a distinction between a warranty of present existing facts and a promissory warranty of an undertaking in the future, but the distinction is unimportant upon the issue of reforming the contract. The very process of reformation involves a change in the obligations (as expressed in the policy) of one or both parties, performance of which may be in the future.
+31. The court has held that this petition for reformation is not a separate proceeding but in substance a petition to amend, and the first sentence of the request is affirmed.
+The 32nd and 33rd requests are specifically denied.
+An order may be presented reforming the contract in accordance with the prayer of the petition.
