@@ -1,0 +1,26 @@
+---
+court: "United States District Court for the Western District of Pennsylvania"
+docket: "E-3442, E-3444"
+decided: "1939-01-03"
+citations: ["26 F. Supp. 69"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["UNITED STATES v. YEE PING JONG et al. (two cases)."]
+source_url: "https://static.case.law/f-supp/26/cases/0069-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4162140
+---
+
+# United States v. Yee Ping Jong
+
+## Majority (GIBSON, District Judge.)
+
+GIBSON, District Judge.
+Yee Haim was found guilty upon two indictments, one of which charges him with conspiracy to violate the narcotic laws of the United States and the other with the unlawful sale of opium, and has moved for a new trial in each case.
+The principal witness against Yee Haim was George H. White, an agent of the Narcotic Bureau of the Treasury Department. He testified that he came to Pittsburgh to see the defendant, after having made arrangement so to do through a telephone communication between a Chinese informer, Leong 'Long, a co-defendant in the conspiracy indictment and a prior violator of the narcotic laws in New York. He testified that he and Yee Haim had several meetings and agreed to act together in the sale of narcotics. For the purpose of aiding him in making connections with others engaged in that illicit trade, Yee Haim had caused witness to be admitted as a member of the Hip Sing Tong, and had given him letters of introduction to other Chinese persons who were so engaged in Chicago and elsewhere. One such letter was directed to one Li Poon, a member of the Hip Sing Tong in Chicago. The letter made no direct mention of any narcotic trade, but stated that the person introduced had a “private” business. This letter was presented to Li Poon by Narcotic Agent White, who was later introduced by him to several persons who furnished him with quantities of opium.
+The introduction of this letter to Li Poon and the testimony as to the purchase of opium pursuant to its delivery is alleged to have been erroneous, as indicating a different conspiracy than that charged in the indictment. True, Li Poon was not mentioned in the indictment, which, also, failed to state that the combination was with any unknown person in 'addition to those named. The general agreement of Leong Long and Yee Haim with Agent White was to engage with him and others in the purchase and sale of narcotics, but, it must be remembered, as an incident of that agreement and to further. it, White was to be introduced to others engaged in the traffic. As interpreting Yee Haim’s letter to Li Poon as an overt act in carrying out the agreement, it would seem proper to show that as a result of his letter White was put in touch with others in the illicit narcotic trade and was able to carry out the objects of the agreement.
+Another allegation of error is based upon the reception of a phonographic record of a conversation between Yee Haim and Loui Wong. The latter was a Chinese interpreter and informer used by Agent White in his investigation. At White’s direction, Wong called Yee Haim from St. Louis on the telephone, the call being made from the house of an associate of White. With the help of the occupant of the house a device was attached to the telephone wire inside the house and by it the conversation was recorded upon a prepared plate. The court allowed this conversation to be reproduced upon trial, and its reception is alleged by counsel for the defendant to have been error. He bases his position upon the Communications Act, Section 605, 47 U.S.C.A., which reads in part as follows : “ * * * and no person not being authorized by the sender shall intercept any communication and divulge or publish the existence, contents, substance, purport, effect, or meaning of such intercepted communication to any person.”
+The manner in which the conversation in question was recorded does not seem to present such an interception as is contemplated by the quoted statute. Webster’s New International Dictionary defines the verb “intercept” in part as follows: “To take or seize by the way, or before arrival at the destined place; * * ” The call to the defendant was made by Agent White, and the conversation between his interpreter and the defendant was not obtained by a “tapping of the wire” between the locality of call and the locality of answer by an unauthorized person, but was, in effect, a mere recording of the conversation at one end of the line by one of the participants. It differed only in the method of recording from a transcription of a telephone conversation made by a participant. We are of opinion that the admission of the record in evidence was not error.
+Counsel for Yee Haim also urges that the court should have directed the acquittal of Yee Haim for the reason that the evidence disclosed an entrapment of Yee Haim. No uncontradicted evidence in the case established as a fact that the action of the narcotic agent was án entrapment of Yee Haim rather than a test of him. This being so, the court fulfilled its duty when it properly instructed the jury in respect to the entrapment rule.
+The motion for a new trial will be denied in both the conspiracy and substantive offense cases.
