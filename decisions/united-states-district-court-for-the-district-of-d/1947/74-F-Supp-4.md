@@ -1,0 +1,24 @@
+---
+court: "United States District Court for the District of Delaware"
+docket: "Civ. A. No. 259"
+decided: "1947-10-29"
+citations: ["74 F. Supp. 4"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["UNITED STATES v. VEHICULAR PARKING, LIMITED, et al."]
+source_url: "https://static.case.law/f-supp/74/cases/0004-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 593963
+---
+
+# United States v. Vehicular Parking, Ltd.
+
+## Majority (LEAHY, District Judge.)
+
+LEAHY, District Judge.
+Out of the several varieties of motions there appear basic issues. Vehicular is willing to give Magee-Hale a license but it must be on the same terms as govern its other licensees; i. e., Magee-Hale must take a license involving over 25 patents and covering about five pending applications for parking meters and parts thereof, at a fixed percentage of royalty common to all licensees. Magee-Hale first took the position that out of Vehicular’s group of patents it was merely interested in Nos. 2,118,318; 2,168,302 ; 2,198,422; and 2,284,-221; and it petitioned the court to fix a reasonable royalty for these patents and not the remainder. After the parties would adduce evidence on this question and the court would decide what a reasonable royalty would be, Magee-Hale stated it wished to reserve to itself the right to refuse to take any license on the basis fixed by the court; but it would thereafter take its chances on defending an infringement suit by Vehicular. After oral argument and by way of briefs, Magee-Hale now states it wants to take a license under the four patents mentioned, have the court determine a reasonable royalty which Magee-Hale will be bound to accept, but under three conditions (1) the acceptance of the license will not serve as an admission of the validity of Vehicular’s patents and the license will not preclude MageeHale from urging as a defense that the patents are invalid in any action brought under the license or in any action involving the patents; (2) that the acceptance by Magee-Hale of a license at the royalty fixed by the court will not constitute an admission by Magee-Hale that any of its past or future operations are within the scope of the claims of the patents; and (3) the acceptance of the license will not serve as a waiver to urge any other defense in any action under the license.
+This court is not the proper place for litigious business men to stress and strain as they try to make a deal. Magee-Hale has the right to intervene here. Vehicular does not have the right to insist that if Magee-Hale is to take a license it must include all parking-meter patents owned by it. Magee-Iiale does not have the right to take up this court’s time in a determination of what is a reasonable royalty and then regard its decision as an advisory opinion and walk away without taking any license at all. More than that, Magee-Hale will not be heard to say that it will abide by the royalty rate fixed by the court but only with specific conditions.
+As I am not to be a party to any negotiations, I shall leave the parties free to negotiate elsewhere. The matter will be resolved in this fashion: Magee-Iiale will not be required to take a license covering all Vehicular’s patents but only the four Magee-Hale wants; Magee-Hale has thirty days to consider but there are to be no reservations or conditions. It simply takes a license under the four patents. This court proceeds to fix what it considers a fair and reasonable royalty. Any and all risks as to future legal quarrels between the parties, over the patents or the license, if one is granted, are to be assumed by the parties. Otherwise, the petition of intervention and its prayers will he dismissed.
+One other matter should be determined at this time. The Vehicular defendants have filed a motion to require Magee-Hale to furnish a bond in the amount of $250,000 to insure the payment to defendant Vehicular Parking, Ltd., of royalties on a reasonable basis. In turn, Magee-Hale seeks a bond from Vehicular of $100,000 because of damage to MageeHale by reason of loss of customers arising from the threat of the patent infringement counterclaim. Vehicular defendants say the Magee-Hale claim “is so absurd and so utterly devoid of the many supporting elements, universally recognized as necessary for serious consideration of a motion of this sort, as to require no further comment.” This description of Vehicular aptly describes both motions for a bond. Accordingly, the motion of each party for the kind of bond sought by each will be denied.
+I have considered the other motions of Magee-Hale but I do not think it necessary to pass on them at this time. Depending upon further events, Magee-Hale may renew its application at some future time.
