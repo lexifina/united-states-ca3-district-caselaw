@@ -2,7 +2,7 @@
 court: "United States District Court for the Eastern District of Pennsylvania"
 docket: "21225"
 decided: "1941-04-16"
-citations: ["38 F. Supp. 40", "38 F. Supp. 43", "38 F. Supp. 45", "38 F. Supp. 42"]
+citations: ["38 F. Supp. 40"]
 reporter: "f-supp"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In re McMILLAN, RAPP & CO. Claim of FREEMAN."]
 source_url: "https://static.case.law/f-supp/38/cases/0040-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4178911
-cites_cases: ["11 U.S.C.A. § 96", "38 F.Supp. 40", "38 F.Supp. 43", "52 Stat. 869"]
+cites_cases: ["52 Stat. 869"]
 ---
 
 # In re McMillan, Rapp & Co.
