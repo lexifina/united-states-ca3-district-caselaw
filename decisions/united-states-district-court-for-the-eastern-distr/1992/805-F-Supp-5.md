@@ -1,0 +1,33 @@
+---
+court: "United States District Court for the Eastern District of Pennsylvania"
+docket: "Civ. A. No. 87-8343"
+decided: "1992-10-06"
+citations: ["805 F. Supp. 5"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lawrence ALTEN, et al., Plaintiffs, v. ATLANTIC FINANCIAL FEDERAL, et al., Defendants."]
+source_url: "https://static.case.law/f-supp/805/cases/0005-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 7405104
+cites_cases: ["28 U.S.C. § 1331", "461 A.2d 138", "477 U.S. 242", "477 U.S. 317", "648 F.Supp. 40", "663 F.Supp. 1193", "711 F.Supp. 1264", "806 F.2d 1154", "891 F.2d 458", "93 N.J. 324"]
+---
+
+# Alten v. Atlantic Financial Federal
+
+## Majority (JAMES McGIRR KELLY, District Judge.)
+
+MEMORANDUM
+JAMES McGIRR KELLY, District Judge.
+Presently before the Court is Defendant Deloitte & Touche’s (“Deloitte”), formerly known as Deloitte, Haskins & Sells, motion for summary judgment against the DiGiov-annis, the Krumins, the Marcuccis, the Duffys, Dr. Goldman, Dr. Lemole and Mr. Heil, pursuant to Rule 56 of the Federal Rules of Civil Procedure. This court has subject matter jurisdiction over this action under 28 U.S.C. § 1331.
+This action involves the' Plaintiffs’ investment in tax' shelter, the Triad 1985-VII lilhited partnership offering by Triad American Energy, Inc. (“Triad”). Defendant Deloitte’s involvement in Triad consisted of reviewing Triad’s financial forecast and preparing an Accountants’ Review Report. The reports were included in the Triad 1985-VII offering memorandum.
+The Plaintiffs claim that Deloitte was negligent in misrepresenting and supplying certain false information and in failing to warn them of misrepresentations and omissions of material fact. Defendant Deloitte asserts that Plaintiffs in making their investments neither relied on the forecast nor ón the Accounting Review Report.
+Under Fed.R.Civ.P. 56(c), summary judgment “shall be rendered forthwith if the pleadings, depositions, answers to interrogatories, and admissions on file, together with the affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party is entitled to a judgment as a matter of law.” This Court is required, in resolving a motion for summary judgment pursuant to Rule 56, to determine whether “the evidence is such that a reasonable jury could return a verdict for the nonmoving party.” Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248, 106 S.Ct. 2505, 2510, 91 L.Ed.2d 202 (1986). In making this determination, the evidence of the nonmoving party is to be believed, and the district court must draw all reasonable inferences in the nonmovant’s favor. See id. at 255, 106 S.Ct. at 2513.
+While the movant bears the initial responsibility of informing the court of the basis for its motion, and identifying those portions of the record which demonstrate the absence of a genuine issue of material fact; Rule 56(c) requires the entry of summary judgment “after adequate time for discovery and upon motion, against a party who fails to make a showing sufficient to establish the existence of an element essential to that party’s case, and on which that party will bear the burden of proof at trial.” Celotex Corp. v. Catrett, 477 U.S. 317, 322-23, 106 S.Ct. 2548, 2552, 91 L.Ed.2d 265 (1986). Therefore, the party opposing the motion must come forward with “more than a mere scintilla of evidence in its favor” and “ ‘cannot simply reassert factually unsupported allegations contained in its pleading.’ ” Williams v. Borough of West Chester, 891 F.2d 458, 460 (3d Cir.1989) (citing Anderson, 477 U.S. at 249, 106 S.Ct. at 2510 and Celotex, 477 U.S. at 325, 106 S.Ct. at 2553).
+Defendant asserts that the claims against it are state common law claims governed by either Pennsylvania or Texas law. Pennsylvania and Texas have both adopted § 552 of the Restatement (Second) of Torts “Information Negligently Supplied for the Guidance of Others”. See Browne v. Maxfield, 663 F.Supp. 1193, 1202 (E.D.Pa.1987). The Restatement provides that a plaintiff must show false information, justifiable reliance, causation, and pecuniary loss. Id.
+Defendant contends that the named plaintiffs did not rely on the Accountant Review Report in their investment decisions. Defendant asserts that the deposition testimony of each Plaintiff admits that there was no knowledge of Deloitte’s involvement upon making their investment decisions.
+In response, Plaintiffs assert that Pennsylvania law does not require Plaintiffs to prove direct reliance in order to maintain a fraudulent misrepresentation claim. Plaintiffs contend that they justifiably relied on the advice of their accountants, who in turn relied on the misrepresentations and omissions contained in the Accountant Review Report prepared by De-loitte.
+We agree with Plaintiffs and find that direct reliance can be imputed through their relationships with their accountants. Direct reliance remains a requirement of common law claims. Peil v. Speiser, 806 F.2d 1154, 1163 n. 17 (3d Cir.1986); see Rosenberg v. Digilog, 648 F.Supp. 40 (E.D.Pa.1985). This requirement is satisfied where plaintiffs fall into the category of foreseeable users who rely on such reports for their intended business purpose. See Rosenblum v. Adler, 93 N.J. 324, 461 A.2d 138 (1983). It is not clear in what capacity this reliance must exist. This court finds the requirement to be satisfied where the plaintiffs’ accountants have relied on the financial reports and thus advise their clients based on this information. But see Cammer v. Bloom, 711 F.Supp. 1264 (D.N.J.1989).
+It is foreseeable that the Accountants Review Report was created for the benefit of potential investors. It is also foreseeable that Plaintiffs, as lay investors, would seek the financial guidance of personal accountants.
+The Plaintiffs admit that they did not rely on the Accountant Review Report created by Deloitte in rendering their decision to invest. However, Plaintiffs relied on the advice of their accountants. (Marcuccis’ Dep. at 31, 36); (Krumins’ Dep. at 60); (Goldman Dep. at 65); (Heil Dep. at 10, 36-37); (Lemole Dep. at 210-213); (Paul Duffy Dep. at 120, 129); (Barbara Duffy Dep. . at 122). The personal accountants, acting as representatives of the Plaintiffs, relied on Deloitte’s Accountant Review Report. (Ro-senman Aff. ¶ 3), (Thomas Dep. p. 259.) It is in this capacity as financial representatives for the plaintiffs, that this Court finds the direct reliance requirement to be satisfied.
+Accordingly, Deloitte’s motion for summary judgment shall be DENIED.
