@@ -1,0 +1,35 @@
+---
+court: "United States District Court for the Eastern District of Pennsylvania"
+docket: "Civ. A. No. 76-77"
+decided: "1976-03-25"
+citations: ["410 F. Supp. 1"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["(Mr.) James WILLIAMS and (Mrs.) Marguerite V. Williams v. Gene PATTON et al."]
+source_url: "https://static.case.law/f-supp/410/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3859363
+cites_cases: ["24 L.Ed.2d 691", "28 U.S.C. § 1331", "28 U.S.C. § 1343", "281 F.Supp. 175", "321 U.S. 1", "355 U.S. 41", "384 U.S. 780", "390 F.Supp. 836", "392 F.Supp. 373", "394 F.Supp. 888", "396 U.S. 1046", "413 F.2d 84", "42 U.S.C. § 1981", "42 U.S.C. § 1983", "42 U.S.C. § 1985", "446 F.2d 14", "446 F.2d 404", "88 L.Ed. 197", "90 S.Ct. 696"]
+---
+
+# Williams v. Patton
+
+## Majority (VanARTSDALEN, District Judge.)
+
+MEMORANDUM AND ORDER
+VanARTSDALEN, District Judge.
+Plaintiffs, property owners, have brought a civil rights action against the members of the Board of Commissioners of the township in which plaintiffs reside for monetary damages based on the alleged failure of defendants to enforce a local zoning ordinance.
+The complaint merely states that certain industrially zoned property adjacent to plaintiffs’ property is maintained in violation of the zoning ordinance of the township in some unknown respect, that defendants have refused in some unknown way to enforce the ordinance, and that the refusal deprives plaintiffs of equal protection and denies them due process. Jurisdiction is asserted under 42 U.S.C. § 1981 and § 1983, 28 U.S.C. § 1331 and § 1343. The action will be dismissed for failure to state a claim upon which relief can be granted.
+With regard to 42 U.S.C. § 1981, plaintiffs have not stated a cause of action. That civil rights statute is limited to racial discrimination. Georgia v. Rachel, 384 U.S. 780, 788-92, 86 S.Ct. 1783, 1788-1790, 16 L.Ed.2d 925, 931-933 (1966); Baca v. Butz, 394 F.Supp. 888 (D.N.Mex.1975); Thomas v. Firestone Tire & Rubber Co., 392 F.Supp. 373 (N.D.Tex.1975). See also Allen v. Butz, 390 F.Supp. 836, 841 (E.D.Pa.1975). Plaintiffs have made no allegation of racial or any other class-based discrimination. Therefore, the complaint states no claim under 42 U.S.C. § 1981.
+Plaintiffs have also failed to state a cause of action under 42 U.S.C. § 1983. In Snowden v. Hughes, 321 U.S. 1, 64 S.Ct. 397, 88 L.Ed. 197 (1944), a political candidate sought damages from the members of a state board for failing to certify plaintiff as the winner of a primary election and, in so doing, acting in violation of state law. Jurisdiction was asserted under the Fourteenth Amendment, portions of the Civil Rights Act of 1871 and the predecessor statute to 28 U.S.C. § 1343. The Court affirmed dismissal of the suit holding that there was no due process or equal protection violation.
+The unlawful administration by state officers of a state statute fair on its face, resulting in its unequal application to those who are entitled to be treated alike, is not a denial of equal protection unless there is shown to be present in it an element of intentional or purposeful discrimination.
+Id. at 8, 64 S.Ct. at 401, 88 L.Ed. at 503. There is no allegation here of purposeful discrimination which is necessary to raise an equal protection claim.
+Additionally, in Snowden, it was clear that the state board acted unlawfully while in the case sub judice, the enforcement of the zoning ordinance is clearly discretionary. The Pennsylvania Municipalities Planning Code states, inter alia:
+In case any building, structure, or land is . maintained or used in violation of any ordinance enacted under this act or prior enabling laws, the governing body or, with the approval of the governing body, an officer of the municipality, in addition to other remedies, may institute in the name of the municipality any appropriate action or proceeding to prevent, restrain, correct or abate such building, structure or land, or to prevent, in or about such premises, any act, conduct, business or use constituting a violation, (emphasis supplied).
+53 P.S. § 10617. Failure of a state official to perform a purely discretionary act is not a denial of equal protection or due process absent some showing of arbitrariness or an abuse of discretion. There is no such allegation in the instant case nor is there any assertion of facts which show improper acts of the defendants. Conclusory contentions of constitutional violations without factual support do not establish a civil rights deprivation sufficient to withstand a motion to dismiss. Fletcher v. Hook, 446 F.2d 14 (3d Cir. 1971). In Harrison v. Brooks, 446 F.2d 404 (1st Cir. 1971), a case somewhat similar to the one at bar, property owners brought a civil rights action against certain local officials for failure to enforce zoning bylaws of the town. The court there held that a cause of action was stated under 42 U.S.C. § 1985(3) and 28 U.S.C. § 1343(1) because there was an allegation of conspiracy and purposeful discrimination. However, with regard to the counts of the complaint under 42 U.S.C. § 1983 and 28 U.S.C. § 1343(3), the First Circuit affirmed their dismissal
+because they do no more than allege “wrongful” conduct by the defendants. Where a state official’s judgment and discretion are of vital concern, we require a showing of purposeful discrimination or at least an allegation that his misdeeds were knowing or reckless.
+Id. at 407. There are no allegations in the complaint here of knowing or reckless misdeeds.
+Plaintiffs do not state how the failure or refusal of defendants to abate an alleged zoning violation by a neighbor of plaintiffs is a denial of due process. There may be remedies available to plaintiffs in the state courts. The basic dispute in this action seems to be between plaintiffs and their neighbor and it is a purely local zoning dispute. Mindful of the fact that “a complaint should not be dismissed for failure to state a claim unless it appears beyond doubt that the plaintiff can prove no set of facts in support of his claim which would entitle him to relief”, Conley v. Gibson, 355 U.S. 41, 45-46, 78 S.Ct. 99, 102, 2 L.Ed.2d 80, 84 (1957), the complaint will be dismissed as to all defendants because no cognizable civil rights violation appears.
+. Apparently, plaintiffs have a pending action in state court against their neighbor to abate the alleged violations which form the basis for the instant claim.
+. While not all named defendants have filed a motion to dismiss, those who have not done so are not parties to the action because they have not yet been served. In any event, dismissal as to all defendants is proper. United States ex rel. Gittlemacker v. Commonwealth of Pennsylvania, 281 F.Supp. 175 (E.D.Pa.1968), aff’d sub nom., United States ex rel. Gittlemacker v. County of Philadelphia, 413 F.2d 84 (3d Cir. 1969), cert. denied, 396 U.S. 1046, 90 S.Ct. 696, 24 L.Ed.2d 691 (1970).
