@@ -1,0 +1,27 @@
+---
+court: "United States District Court for the Eastern District of Pennsylvania"
+docket: "8513"
+decided: "1935-09-19"
+citations: ["12 F. Supp. 83"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LERNER v. ARISTA TROUSER CORPORATION, Inc."]
+source_url: "https://static.case.law/f-supp/12/cases/0083-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4145723
+---
+
+# Lerner v. Arista Trouser Corp.
+
+## Majority (DICKINSON, District Judge.)
+
+DICKINSON, District Judge.
+The practice was followed in this as in most courts of requiring receivers and other fiduciaries to file an account of their stewardship, subject to exceptions by any party in interest, and to give notice thereof by publication. If exceptions were filed, the court would dispose of them usually by reference to a special master. If no exceptions were interposed, the account as filed was automatically confirmed. Thus the balance of the estate, if any, in the hands of the accountants was determined. The court then on application would enter, again usually by a reference, a decree of distribution. This practice has been modified. The requirement of an account and notice of its filing continues as before, and the reference of the exceptions, if any are filed. In the absence of exceptions, however, no account is confirmed as of course, but it is referred to a master for audit as if exceptions had been filed. The reference may, and usually does, include distribution.
+To provide for cases in which a reference is not desired, the court will on application act without a master. In such cases the accountants are required to give the like notice of the hearing by the court as would be given by a master and the court passes upon the account; finds the balance, if any, in the hands of the accountants; and prepares a table of distribution as a master would do. In effect, the court sits as master. The account so required is the final account. It is not to be confused with the reports of their administration which receivers are required to make from time to time which are filed merely for information purposes.
+The practice outlined would seem to be simple enough, but for some reason receivers have difficulty in following it. The instant case is an illustration. The reports made as information reports are admirable. There is, how-ever, no account in the form which the law requires. What we have is merely- a ■cash account of moneys received and disbursed by the receivers. The balance struck is of course the same as would be shown by an account cast in the regular form. These receivers did what receivers often do. They not only administered the receivership estate, but they also for a time continued the business as before conducted by the defendant in the bill. A good form of accounting is to keep these activities distinct by filing an administration account with the management of the business account, as supplementary to it. Receivers are accountable for the receivership assets which come into their hands. To fix this responsibility, an appraisement is made. In their account they should debit themselves with .the sum of this inventory and appraisement increased by whatever they received above it, if any, or with a credit for any loss suffered. The results of the conduct of the business if they carried it on should be carried into this account by a debit if there was a profit or a credit for a loss, if there was one. This net result may properly be shown by an appended account of the conduct of the business. In this way the administration items and the business items are kept distinct.
+To come from generals to particulars, the account filed should be recast in the form indicated. There is, however, a fund ready for distribution. This need not be delayed, as, whatever the result of the accounting, there will be at least that much to be distributed.
+A decree of partial distribution may accordingly be made.
+Recurring to the cash account and report submitted, a very cursory glance over it discloses that the appraisement fixed the value of the assets in liquidation at the sum of $12,390.15, and the balance in the hands of the accountants at $3,358.-75. This would indicate a- probable loss in the conduct of the business. The total which came into the hands pf the receivers seems to have been $31,361.70. There are credits and distribution payments of $1,500 or more for allowances to the receivers for compensation and expenses. What part of the latter belongs to the business account does not appear. There are likewise credits and distribution payments of about $500 for expenses in the nature of costs. Some of these are administration outlays, but some may belong to the business account. The items in the table of distribution are in part what may be called the expenses of the audit. These should be entered in their proper places.
+We call the attention of counsel to the aggregate of the credits for the services of accountants as bookkeepers and the order of the court thereon. These comments are not meant to imply any criticism of the results of the accounting but merely as to its form. We reserve judgment of the account until it has been reduced to form.
+A decree of partial distribution to the extent of $3,358.75 may be submitted or it may await confirmation of the account.
