@@ -2,7 +2,7 @@
 court: "United States District Court for the Middle District of Pennsylvania"
 docket: "10280"
 decided: "1944-11-09"
-citations: ["58 F. Supp. 93", "58 F. Supp. 88"]
+citations: ["58 F. Supp. 93"]
 reporter: "f-supp"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,8 +10,7 @@ parties: ["In re MOORHEAD KNITTING CO."]
 source_url: "https://static.case.law/f-supp/58/cases/0093-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4223247
-cites_cases: ["11 U.S.C.A. § 501", "52 F.Supp. 8", "58 F.Supp. 88", "58 F.Supp. 93"]
-cites_law: ["united-states/federal/usc/title-11/501.md"]
+cites_cases: ["11 U.S.C.A. § 501", "58 F.Supp. 88"]
 ---
 
 # In re Moorhead Knitting Co.
