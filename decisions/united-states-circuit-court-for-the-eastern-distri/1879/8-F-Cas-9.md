@@ -1,0 +1,21 @@
+---
+court: "United States Circuit Court for the Eastern District of Pennsylvania"
+docket: "Case No. 4,134"
+decided: "1879-04-29"
+citations: ["8 F. Cas. 9", "8 Reporter, 299; 9 Cent. Law J. 151; 7 Wkly. Notes Cas. 246"]
+reporter: "f-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DUNCAN v. DUNN."]
+source_url: "https://static.case.law/f-cas/8/cases/0009-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11955858
+cites_cases: ["9 Cent. Law J. 151"]
+---
+
+# Duncan v. Dunn
+
+## Majority (BUTLER, District Judge.)
+
+BUTLER, District Judge.
+At the close of the plaintiffs’ case a judgment of nonsuit was entered by direction of the court A motion having been made to take it off, we have again looked into the testimony to ascertain whether it contains anything to support a verdict in the plaintiffs’ favor; and the impression we entertained on the trial has now deepened to conviction. The declaration charges “gross negligence in ascertaining the financial standing and responsibility of James Hill.” Mr. Hill resided at Pittston, Luzerne county. The evidence shows an application by tire plaintiffs to the defendants’ agent at Williamsport for information respecting the financial standing of this gentleman; that they received an answer saying he had a business capital of $4,000, and real estate worth $10,000, clear of incum-brances; that the inquiry was repeated at the defendants’ Philadelphia office, and a similar answer received; that the plaintiffs, relying on this information, sold goods to Hill, to a largo amount, on account of which a balance of over $3,000 remains unpaid and cannot be collected, Hill having failed; that the information furnished was incorrect, the real estate owned by Hill being incumbered at the time beyond its value. Upon this statement (which is sufficiently accurate and particular for the purpose in hand) it may be nd-mitted that the plaintiffs would be entitled to recover but for the provisions contained in the second and fourth paragraphs of the contract; the former of which stipulates that the agents, in gathering information, shall be regarded as the plaintiffs’ representatives; and the latter, that the defendants “shall not be responsible for any loss caused by the neglect of said agents, attorneys, clerks, or employees in procuring, collecting, and communicating the said information.” The language in this latter paragraph of itself is broad enough to exempt the defendants from liability for all negligence of such agents. The plaintiffs think it should apply only to ordinary negligence, and be read as if gross negligence was expressly excepted. For this we can find no warrant. The defendants’ business required the employment of numerous agents; and it was foreseen that they might, in some instances, prove negligent and unfaithful. The defendants were particular in calling attention to this, and in guarding themselves against the danger of loss therefrom; and no reason can be seen why they should be less anxious for protection against gross than against common negligence from this source. The danger from the former was as great as from the latter. By the contract the plaintiffs expressly agreed to take the risk of such loss on themselves. The authorities to which we have been referred have, in our judgment, no application to the case. Common carriers, innkeepers, and others engaged in the exercise of a public calling cannot thus protect themselves against the consequences of gross negligence in the agents whom they employ. This limitation of the right to contract as parties may choose is an exception' from the general rule, and confined to the class of cases named, where the public interests are supposed to demand its application. It has no place here. The contract which these parties entered into must be enforced as they made it It may have been unwise, but with that we have nothing to do. One or the other must bear the risk involved in depending upon agents scattered over the country, of whom neither could know much. The plaintiffs agreed to bear it, and they must take the consequences. That the negligence here complained of, wuether gross or otherwise, is the negligence or me agents and not of the defendants personally, is undisputed and clear. Motion refused.
