@@ -1,0 +1,30 @@
+---
+court: "United States District Court for the District of Delaware"
+docket: "1431"
+decided: "1936-09-08"
+citations: ["16 F. Supp. 67"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE LIZZIE BURT."]
+source_url: "https://static.case.law/f-supp/16/cases/0067-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4156220
+cites_cases: ["56 F. (2d) 13"]
+---
+
+# The Lizzie Burt
+
+## Majority (NIELDS, District Judge.)
+
+NIELDS, District Judge.
+July 26, 1933, a libel was filed against the schooner Lizzie Burt and against James B. Robinson and Nettie D. Robinson, her owners. In August, 1932, repairs and supplies were furnished to the schooner by libelants at a cost of $927.52. $450 was paid, leaving a balance of $477.52. October 10, 1933, the schooner was sold by the Marshal of this District for $130, which sum is in the registry of the court.
+The individual respondents by their answer admit that they were legal owners of the vessel, but deny that any repairs were made on their order or credit. As to the necessity of the repairs and their reasonable value, respondents have no knowledge.
+Willis A. Richardson, claimant and owner pro hac vice, by his answer admits that the repairs and supplies were furnished at his request as owner pro hac vice and that they were furnished on the credit of the vessel. Claimant denies that the reasonable value of the repairs and supplies was $927.52 and avers that $450 paid by him represented such reasonable value. Claimant denies that the supplies and' repairs were furnished on the credit of the owners.
+Claimant was an old oysterman. In 1930, being out of employment, claimant asked the owners to let him have the use of the oyster schooner Lizzie Burt in order to make a living. Previously claimant had been crippled while in the service of the owners. Having known Richardson for many years, the owners turned the schooner over to him upon the understanding that claimant was to have complete control, management, and possession of the schooner and was to pay- for all necessaries, supplies, and repairs. It was further understood that no liens or claims were to be placed against the schooner and that when returned to the owners it was to be in as good condition as when taken over. There was to be no rental charge in any form for the use of the vessel.
+Thereafter claimant operated the schooner and exercised full management, control, and possession of her. At no time did the owners direct or attempt to direct the use of the schooner. Claimant saw the owners only four or five times during the year, although his home was a short distance from the home of the owners. Claimant ordered and paid for materials and supplies. He employed men to work for him on the vessel, paid their wages and supplied them with food. In the early summer of 1932 claimant had trouble with the clutch on the schooner and wrote Tullís and Davis asking if they would do the necessary work and wait for their money until the fall. Tullís & Davis replied to claimant that they would wait until the fall although the work would cost $1 per hour if their bill was not paid within thirty days. Tullís & Davis made no estimate of cost. On the completion of the work claimant received a bill from Tullís & Davis for $927.-52 on which he paid $450.
+Robinson testified that he and his wife were the owners of the schooner. He had resided at Seaford, Del., for seventy years. He had known the claimant for many years. In 1930 Robinson had lost forty or fifty thousand bushels' of oysters on his oyster beds by storm and thereafter the schooner Lizzie Burt was tied up for six or seven months. Claimant, being unemployed, asked for the use of the schooner in order to make a living. He allowed claimant to have the schooner upon the agreement that the claimant would pay for all necessaries and supplies and would not let any liens be placed against the schooner. It was agreed that the owners were not to receive any money from claimant. Thereafter the owners advanced no money and paid no bills on account of the operation of the schooner except one small bill for gasoline used on the return trip from the shipyard Of Tullís & Davis. The owners knew nothing of the repair work except that claimant mentioned that he was going to have some small repairs made. The owners did not know who was to do the work or anything about it. They exercised no control or management over the schooner from the time claimant took it over and have been paid no money by claimant and claimant owes them none.
+The agreement between the owners and the claimant constitutes a demise of the schooner and the claimant became owner pro hac vice. The agreement expressly provided that no claims or liens were to be entered against the schooner. Where there is such a demise, the owner of a vessel is not liable in personam for repairs and supplies ordered by the owner pro hac vice.
+“Moreover, even if O’Boyle were thought to have been the absolute owner of the tug, he was never in fact operating her. If he chose to allow Vredenburgh to have complete control of the vessel for an indeterminate time so that the latter might employ her in his own enterprises, the transaction amounted to a demise charter, terminable at will, and rendered Vredenburgh, as owner pro hac vice, the only one personably liable for obligations which he contracted.” The John E. Berwind (C.C. A.2) 56 F. (2d) 13, 15.
+The facts clearly show that the agreement between claimant and owners was a demise and that Richardson was owner pro hac vice. The owners as holders of the legal title are not liable for supplies and repairs ordered by the owner pro hac vice.
+The libelants may take a decree in rem against the vessel and receive the proceeds of sale of the vessel after payment of the clerk’s and marshal’s costs. The libel in personam will be dismissed, without costs to either party as against the other.
