@@ -1,0 +1,28 @@
+---
+court: "United States District Court for the District of New Jersey"
+docket: "Civil Action No. 2230"
+decided: "1942-07-30"
+citations: ["46 F. Supp. 28"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DA CUNHA v. GRASSELLI CHEMICAL CO. et al."]
+source_url: "https://static.case.law/f-supp/46/cases/0028-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4205866
+cites_cases: ["128 A.L.R. 1437", "260 U.S. 261", "260 U.S. 653", "278 U. S. 177", "28 U.S.C.A. § 112", "308 U.S. 165", "42 F.Supp. 310"]
+---
+
+# Da Cunha v. Grasselli Chemical Co.
+
+## Majority (MEANEY, District Judge.)
+
+MEANEY, District Judge.
+In this action the defendants, appearing specially, have moved to strike the complaint, as amended, on the ground of improper venue.
+The plaintiff, as appears from the amended complaint and from admissions made at the argumenut of this motion, is a citizen of Portugal, residing in New Jersey, who sues for personal injuries sustained while in employ of defendants. The defendant, Grasselli Chemical Company, was formerly a Delaware corporation, authorized to do business in New Jersey, by compliance with New Jersey Revised Statutes 14:15-3, N. J.S.A. 14:15-3, etc. This company has been duly dissolved and the other defendant, E. I. Du Pont De Nemours and Company, has succeeded to its rights and liabilities. The Du Pont Company is incorporated under the laws of Delaware and by similar compliance with New Jersey Statutes was authorized to do business in New Jersey.
+The defendants’ contention is based upon the language of Section 51 of the Judicial Code, 28 U.S.C.A. § 112, which contains the following provision: “* * * no civil suit shall be brought in any district court against any person by any original process or proceeding in any other district than that whereof he is an inhabitant; but where the jurisdiction is founded only on the fact that the action is between citizens of different States, suit shall be brought only in the district of the residence of either the plaintiff or the defendant.” The object of this part of the code is to serve the reasonable convenience of the defendant, and is a personal privilege, and unless waived, would require that the action be instituted in the District of Delaware. That it may be waived would appear definite. General Invest. Co. v. Lake Shore & M. S. R. Co., 260 U.S. 261, 43 S.Ct. 106, 67 L.Ed. 244; Lee v. Chesapeake & O. R. Co., 260 U.S. 653, 43 S.Ct. 230, 67 L.Ed. 443; Commercial Casualty Ins. Co. v. Consolidated Stone Co., 278 U. S. 177, 179; 49 S.Ct. 98, 73 L.Ed. 252.
+The plaintiff contends that the defendants have waived this feature of convenience and have voluntarily consented to be sued in the District of New Jersey by applying for the right to transact business in the State of New Jersey under the authority of New Jersey R.S. 14:15-3, N.J.S.A. 14:15-3, etc., and by assuming the liabilities attendant upon authorization so to do. The pertinent portions of the New Jersey Statute, N.J.R.S. 14:4 — 2, N.J.S.A. 14:4-2, and N.J.R.S. 14:15-3, N.J.S.A. 14:15-3, provide that “every corporation of this state, and every foreign corporation authorized to transact business in this state, shall maintain a principal office in this state and an agent in charge thereof upon whom process against the corporation may be served”, and that “every foreign corporation, except banking, insurance, ferry and railroad corporations, before transacting any business in this state, shall file in the office of the secretary of state * * * a statement * * * setting forth [among other things]: * * * c. The principal office of the corporation in this state and the name and place of abode of an agent upon whom process against such corporation may be served * *
+While not so broad as the statutes in some other states, the New Jersey Statute makes it clearly evident that, preliminary to authorization to transact business in New Jersey, is the appointment of an agent in charge of the principal office of the corporation in the State, upon whom process against the corporation may be served. There is no qualification upon this obligation.
+The United States Supreme Court in the case of Neirbo v. Bethlehem Shipbuilding Corp., 308 U.S. 165, 60 S.Ct. 153, 84 L.Ed. 167, 128 A.L.R. 1437, decided that designation of an agent in a state for service of process constituted consent to be sued in the federal courts of that state, and is tantamount to a waiver of the privilege accorded by Section 51 above referred to. Previous to that decision, various districts decided the question variously. The Neirbo case is dispositive.
+The defendants would distinguish the instant case from the Neirbo case, on the ground that the plaintiff in the former is an alien, while the plaintiff in the latter was a citizen. There would seem to be no merit in this contention. District Courts have original jurisdiction where the matter in controversy is between citizens of a State and Foreign States, citizens or subjects. 28 U.S.C.A., § 41 (1) (c). There could be no question of the jurisdiction of the District Court of the District of Delaware were the suit instituted there, and under the authority of the Neirbo case, which does not limit the nature of the consent to be sued, to suits instituted by citizens, but is of general application, the United States District Court for the District of New Jersey has jurisdiction under the circumstances which exist in this. case. Such a view of the Neirbo case may be deduced from the decision in Beard v. Continental Oil Co., D.C.1941, 42 F.Supp. 310.
+The motion to strike the summons and complaint, and dismiss the suit, is denied.
