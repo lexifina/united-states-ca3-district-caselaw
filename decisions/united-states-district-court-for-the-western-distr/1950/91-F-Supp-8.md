@@ -1,0 +1,39 @@
+---
+court: "United States District Court for the Western District of Pennsylvania"
+docket: "Civ. A. No. 6964"
+decided: "1950-06-23"
+citations: ["91 F. Supp. 8"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WEBB v. SCOTT et al."]
+source_url: "https://static.case.law/f-supp/91/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 294238
+cites_cases: ["181 U.S. 155", "45 L.Ed. 794"]
+---
+
+# Webb v. Scott
+
+## Majority (McVICAR, Chief Judge.)
+
+McVICAR, Chief Judge.
+This case is before the Court oñ defendant Thomas J. Grable’s motions for judgment notwithstanding the verdicts and for a new trial.
+On October 22, 1947, Mr. and Mrs. Webb, together with Mrs. Webb’s daughter from a previous' marriage, Sharon Marie Huse, were guests in the Wayne Hotel, operated by defendant Thomas J. Grable, in a building owned by defendant J. R. Scott. Sharon Marie Huse, who at that time was four years old, walked through the back door of the hotel onto a catwalk which led across the roof of part of the building occupied by the Star Candy Company, and subsequently fell from the roof onto a cement walk below, sustaining a fractured skull. An action, was brought against the hotel operator and the owner of the building; however, on plaintiff’s motion, the action was dismissed as to the owner of the building, J. R. Scott. The case was submitted to the jury and a verdict was rendered in favor of the minor plaintiff in the amount of $1,750.00 and in favor of the child’s mother, Mrs. ’ Webb, in the amount. of $445.00.
+Defendant has set forth five grounds in his motions for a judgment notwithstanding the verdicts and for a new trial, which will be discussed separately.
+The dismissal of the action as . to J. R. Scott. 1.
+The defendant, Grable, opposed at the time of trial the dismissal of the action as to Scott, unless the action was also dismissed as to Grable, contending, inter alia, that Scott was also liable to the plaintiff if Grable was and that a dismissal would deprive Grable of any rights of contribution. At the time of the dismissal, Grable stated that he had no further evidence to introduce in regard to showing negligence on the part of Scott and that he would depend upon that produced in plaintiff’s case. It is the opinion of this Court that there was no evidence in the plaintiff’s case which could possibly have sustained a verdict against Scott. Although the building did consist of a multiple tenancy,' there was no evidence of any control by Scott over the catwalk of rOof. Instead, the evidence showed that this catwalk and fire escape steps were constructed for the purpose of enabling Grable to operate a hotel; since Pennsylvania law requires a hotel to have two means of ingress and egress; this doorway, catwalk and fire escápe being the second exit. It would follow that the portion of the building in which the accident occurred was ‘occupied by and under the control of the lessee, Grable, and hence, no liability could fall upon the owner. The dismissal of this action as to the defendant, J. R. Scott, was, therefore, proper.
+2. Jurisdiction.
+As indicated previously, the injured child was a daughter of Mrs. Webb by a former marriage. Mr. Webb was a construction worker, employed in Pennsylvania at the time of the accident and had been em-' ployed'here for some four to six months previously. His work required him to move from state to state; and as he testified, layoffs did not occur, and he would move directly from one job to another. Mrs. Webb was a citizen of Wisconsin and resided there until her marriage to Mr. Webb in Pennsylvania shortly before the accident occurred. It is clear that Mrs. Webb would, by operation of law, take the domicile of her husband upon marriage. Atherton v. Atherton, 181 U.S. 155, 21 S.Ct. 544,.45 L.Ed. 794; and, if, as contended by the defendant, Mr. Webb was domiciled in Pennsylvania, there would be no diversity of citizenship to vest jurisdiction in this Court. It is the opinion of this Court, however, that Mr. Webb was domiciled in Wisconsin at the time of this accident. An adult may establish a domicile of choice by fulfilling two requirements established by law; an intention to change domicile coupled with an overt act of residence indicating this change. See citations following 28 U.S. C.A. § 1332. In this case, it is clear that Mr. Webb had the requisite intent, his testimony denoting that. Insofar as a demonstrative act is concerned, there is testimony in the record to the effect that Mr. Webb visited his wife at her home in Eau Claire, Wisconsin, shortly before their marriage and then changed his mailing address, which had always been in Kentucky, to Eau Claire, Wisconsin. This actual residence, although of short duration, coupled with the demonstrative act of changing his mailing address, evidencing intent, is sufficient to establish a domicile in Eau Qaire, Wisconsin; and thus the plaintiff was a citizen of Wisconsin at the time the cause of action accrued and was properly within the jurisdiction of this Court.
+3.. Negligence of Graible.
+The basis of negligence -relied upon iby the plaintiff in this case was the leaving of the fire escape door open, said door leading onto a dangerous place, the caWalk and roof. Defendant contends that this is insufficient and that a finding of negligence upon this 'basis cannot be sustained. Testimony in this case indicated that the defendant knew that the plaintiff and other children had played on this catwalk and that the doorway leading from the hallway to the catwalk was open at the time of the accident. The dangerous nature of such a place was apparent to the defendant since a warning had been directed to Mrs. Webb to keep the child off the roof. Under the law, a fire escape door cannot be locked, but whether 'permitting it to remain open under the circumstances of this case was an exercise of due care, is a question of fact and was properly submitted to the jury.
+4. Contributory negligence of Mrs. Webb.
+As indicated above, Mrs. Webb had been warned to keep her daughter from playing on this -catwalk. Mrs. Webb testified that prior to the accident, Sha-ron Huse was in bed and -seemingly asleep. Mrs. Webb left'the -room -for -a few minutes and when she -returned Sharon was not in sight. Subsequently, some one carried Sharon into her room after her fall from the roof or catwalk. Defendant contends that this requires a holding that Mrs. Webb was contributorily negligent as a matter of law. It is the opinion of this Court that the defendant’s contention is without merit and that whether Mrs. Webb failed to exercise due care under the circumstances is a question upon which reasonable men might differ and was properly for the jury’s determination.
+5. Proximate -cause.
+Defendant contends that the Court committed error -in that portion o-f the -charge relating to proximate cau-se. The charge as -given by the -Court, inter <dia, was ■as follows:
+“On the question of negligence, it must be the proximate cause of the accident. * * * The negligence must be the proximate cause, the near cause of the accident, in order to hold the defendant liable.
+if * * if * * .
+“In other words, in order to be the proximate cause of the accident, you would have to find that that caused the accident in the case and that there wasn’t any other intervening cause outside of that.”
+It is the opinion of the Court that the above is a sufficient explanation of the legal concept, proximate cause, and that no error was committed, by its use, nor were further instructions on this point necessary.
+Order
+And Now, to-wit, this 23rd day of June, 1950, after argument in open court by counsel upon defendant’s motion for judgment notwithstanding verdicts and motion for new trial, the said motions are dismissed.
