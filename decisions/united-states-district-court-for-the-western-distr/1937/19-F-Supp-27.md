@@ -2,7 +2,7 @@
 court: "United States District Court for the Western District of Pennsylvania"
 docket: "18787"
 decided: "1937-02-02"
-citations: ["19 F. Supp. 27", "20 F. Supp. 383"]
+citations: ["19 F. Supp. 27"]
 reporter: "f-supp"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
