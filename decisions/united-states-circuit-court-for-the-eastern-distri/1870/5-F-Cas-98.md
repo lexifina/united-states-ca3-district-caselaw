@@ -1,0 +1,25 @@
+---
+court: "United States Circuit Court for the Eastern District of Pennsylvania"
+decided: "1870-06-13"
+citations: ["5 F. Cas. 98", "2 Abb. (U. S.) 160; 7 Phila. 570; 27 Leg. Int. 212"]
+reporter: "f-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The CAROLINE E. KELLY."]
+source_url: "https://static.case.law/f-cas/5/cases/0098-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6100413
+cites_cases: ["19 Fed. 524", "2 Stat. 203", "27 Leg. Int. 212", "7 Phila. 570"]
+---
+
+# The Caroline E. Kelly
+
+## Majority (McICENNAN, Circuit Judge.)
+
+McICENNAN, Circuit Judge.
+The decisive question in this case is one of fact, and under the direct and uncontradicted proofs, it is not of difficult solution. On January IS, 1S70, the libelant shipped as seaman on the brig Caroline B. Kelly, of which the respondent is master, at the wages of twenty-five dollars per month, for a voyage from Mobile to Matanzas, Cuba, and thence to any port north of Cape Hatteras. The vessel sailed immediately, and duly reached Ma-tanzas. While she was in the harbor of that place, the libelant’s finger became painfully sore, so as measurably to unfit him for duty. Difficulties having occurred between him and the master during the voyage, and his finger growing worse, he was told by the first mate, that, by going into cold weather, he might lose his hand, and probably nis life, that he ought to go to Havana and get mto the hospital, and that if he wished, he, the mate, would give him an opportunity to leave the vessel, and would pay his passage to Havana. Within a day or two after-wards he was called up by the mate at a very early hour in the morning, while the master was in bed, was taken ashore in the ship’s boat by the mate, accompanied to the railroad, put on the cars, and his fare paid to Havana. This occurred February 16th, and on the 18th the vessel sailed for the United States. The mate on that day made an entry in the log-book that “Pat. a seaman, had deserted.” Under these circumstances, even if a proper entry of libelant’s absence had been made in the log-book, it is plain that the crime of desertion is not to be imputed to him, and that the arrears ot his wages were not forfeited.
+Was he discharged with his own consent within the meaning of the act of congress of February 28. 18(18? Although at the time the libelant left the vessel the master was aboard, yet the mate was actually in command, and -was. therefore, temporarily invested writh the functions of a commanding officer. The care of the ship and the government and management of the crew were necessarily within the scope of his authority, while he was potentially in charge of both. His acts are to be considered as constructively the acts of the master, pro hae vice. Whatever may be the extent of his authority, or of his accountability to his employers for an abuse of it, the seamen are subject to his direction, and his permission of an act to be done by any of them is sufficient to divest it of the character, and rescue it from the punitive consequences of a willful and insubordinate violation of duty. So far, then, as the absence of a seaman from his vessel is set up to affect him prejudicially, the permission of the temporary commanding officer must be taken as giving it an authorized sanction.
+Here the libelant left the vessel, not only with the knowledge and consent, but by the distinct advice and procurement, and with the indispensable assistance of the officer in charge at the time, and was sent away to a distant place without the means of returning before the vessel sailed if he had desired to do so. Nor can the effect of these facts be averted by the respondent’s alleged ignorance of the libelant’s intended withdrawal, especially as he did not manifest any earnest or unequivocal disapproval of the conduct of the mate, but at once proceeded to employ another seaman, and sailed on the return voyage, without taking any steps whatever to reclaim the libelant.
+Under all the evidence, in furtherance of the humane object of the act of XS03, we must hold that the libelant was discharged. This having been done in a foreign port, and with his consent, it follows that he is entitled to recover the three months’ wages allowed by that act. in addition to the arrears of his stipulated wages, and the whole case was rightly decided by the learned judge of the district court. Decree accordingly.
+[And now, June 13th, 1S70, this case having been brought into this court by appeal by the respondent from the decree of the district court, and having been heard on the pleadings and proofs, and having been ar-gfied by the advocates of the respective parties, and due deliberation being had in the premises, it is ordered, adjudged and decreed, that the libelant, Patrick Doherty, recover from the respondent, Rezin A. Robinson, and his stipulators, for arrears and three months’ wages, the sum of eighty dollars (of which sum twenty-five dollars to be paid into the registry of this court) with costs, not exceeding sixty dollars.]
+[From 27 Leg. Int. 212.]
